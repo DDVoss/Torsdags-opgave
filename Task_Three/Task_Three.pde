@@ -1,4 +1,4 @@
-String adress;
-int number;
-int number1;
+String address;
+int sum;
+int division;
 String hej;
